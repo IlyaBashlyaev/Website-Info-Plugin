@@ -1,6 +1,6 @@
 <div class="website-info" style="margin-right: 20px">
     <h1>Hello <?= wp_get_current_user()->display_name ?>,</h1>
-    <p>The plugin "Website Info" has been successfully installed into your WordPress website. Now copy just the API key and connect this website to your account in the "Website Info" app (<a href="https://website-info.onrender.com">https://website-info.onrender.com</a>).</p>
+    <p>The plugin "Website Info" has been successfully installed into your WordPress website. Now copy just the API key and connect this website to your account in the "Website Info" app (<a href="https://website-info-app.onrender.com">https://website-info-app.onrender.com</a>).</p>
     <br><p>----------</p><br>
 
     <h1>Website Info</h1>
